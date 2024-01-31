@@ -1,2 +1,4 @@
-git remote add origin https://github.com/MaksBondar/staff.git
+jfdoifjdiuhfwipufh;
+
+next
 
